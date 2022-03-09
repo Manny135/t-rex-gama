@@ -1,2 +1,1 @@
-# t-rex-gama
-t-rex game
+# C13-SA2
